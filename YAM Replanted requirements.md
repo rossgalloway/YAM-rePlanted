@@ -89,6 +89,8 @@ The scope of this project consists generally of the following elements
 
 ## 6. What is the full user flow for this project. Is this all part of the scope?
 
+[insert this info]
+
 <br>
 
 ## 7. What are the functional requirements of the project?
@@ -150,9 +152,13 @@ There are other projects that utilized similar governance structures and models 
 
 ## 14. Time-frame expected to fulfill different parts of the scope, as well as full completion of the project.
 
+[insert this info]
+
 <br>
 
 ## 15. Expected compensation for completion of the project and/or specific milestones.
+
+[insert this info]
 
 <br>
 
