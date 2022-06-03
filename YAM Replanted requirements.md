@@ -57,7 +57,7 @@ The scope of this project consists generally of the following elements
 
 ## 5. Who are the participants/users of the project
 
-### Token Holders
+### Token Holders (YAM voters)
 
    **Role**: They control the Treasury. They decide on the large scale decisions around the direction of the DAO and what projects to fund.
 
@@ -80,6 +80,10 @@ The scope of this project consists generally of the following elements
    **Necessary Skills**: They must understand how the YAM governance process works and be able to guide token holders and grant applicants and recipients through it. The system facilitators who write and vet proposal code should be experienced in writing solidity and using github to review proposals. They should be able to communicate why a proposal or process may be lacking in completeness. 
 
    **How they interact with the project**: Facilitators will interact with the Discord and  Discourse discussion forums for discussions. Some with use Github to review code and may create snapshot and on-chain votes.
+
+<br>
+
+![image](https://user-images.githubusercontent.com/58150151/171889229-053acb81-9ca5-4c3f-9b8f-fc71b7803898.png)
 
 <br>
 
