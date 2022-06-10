@@ -9,13 +9,13 @@ type: Requirements Document
 
 # YAM RePlanted Requirements Document 
 
-<br>
+---
 
 ## 1. What is the overall goal and purpose of the project?
 
    This project aims to build a new framework for the YAM DAO to facilitate better transparency, accountability, and permissionless-ness. It does so by developing a new process by which projects can receive funding. It will clarify the governance process, define and limit the roles of core contributors, and provide an example structure for how DAO-funded projects can be run.
 
-<br>
+---
 
 ## 2. What problem does the project solve?
 
@@ -23,7 +23,7 @@ type: Requirements Document
 
    In the past, when token holders wanted something done, they proposed a vote and expected someone on the ‘core team’ to fulfill the task. This lead to situations where certain elements of the community expected things from others without any agreement. Contributors were put into working situations they didn’t expect and hadn’t signed up for. The grants system changes this. Grant recipients can work the way they want with the team they want, as long as it is agreed upon in the grant contract. They are their own boss, but with a contractual responsibility to YAM token holders.
 
-<br>
+---
 
 ## 3. Overall Scope
 
@@ -35,7 +35,7 @@ The scope of this project consists generally of the following elements
 - High level documentation explaining the new system and rationale to token holders who much decide whether they wish to implement it. This will be in the form of a website with blog style posts.
 - Design of a system to manage and record the decisions and documents produced from running the designed system. This would be a public documents repo where governance and grant proposals are published.
 
-<br>
+---
 
 ## 4. Are there other potential ways to solve this problem? Why choose this one?
 
@@ -53,7 +53,7 @@ The scope of this project consists generally of the following elements
 
 - All information necessary to participate in the DAO should be publicly available.
 
-<br>
+---
 
 ## 5. Who are the participants/users of the project
 
@@ -81,17 +81,15 @@ The scope of this project consists generally of the following elements
 
    **How they interact with the project**: Facilitators will interact with the Discord and  Discourse discussion forums for discussions. Some with use Github to review code and may create snapshot and on-chain votes.
 
-<br>
-
 ![image](https://user-images.githubusercontent.com/58150151/171889229-053acb81-9ca5-4c3f-9b8f-fc71b7803898.png)
 
-<br>
+---
 
 ## 6. What is the full user flow for this project. Is this all part of the scope?
 
 [insert this info]
 
-<br>
+---
 
 ## 7. What are the functional requirements of the project?
 
@@ -109,32 +107,32 @@ The scope of this project consists generally of the following elements
 
   - The design should require the same level of governance participation that the DAO currently has, even if the aim is to increase that participations 
 
-<br>
+---
 
 ## 9. What are the design principles or other principles that guide the project?
 
 - see the answer to question 3.
 
-<br>
+---
 
 ## 10. Dependencies
 *Are there other projects or contracts that the project will interact with? How will they do so? What are the security risks from these interactions?*
 
 This project will utilize the existing YAM governance contracts and governance infrastructure, including Discord, Discourse, Github, Snapshot, and the YAM website. There are limited changes to the way that the DAO interacts with these pieces of infrastructure. The initial version will not make significant changes to how they are used, but may make suggestions about future improvements and changes.
 
-<br>
+---
 
 ## 11. Are there security assumptions built into this project? If so what are they?
 
 The security assumptions for this project are equivalent to the current YAM security assumptions. This project makes the assumption that YAM token holders are capable of making important decisions about the future of the DAO and how to spend the treasury. It makes assumptions that YAM token holders are capable of vetting projects that it chooses to fund.
 
-<br>
+---
 
 ## 12. Is it possible for any party to lose money via this project? How so?
 
 This project does not involve any changes to the way the YAM treasury or YAM token holders interact with the treasury of their own funds. How tokens are stored and used to vote does not change. The authors cannot make any statements about what this project will do for the YAM token price and we consider any gain or loss of value in the YAM token to be out of scope of this proposal.
 
-<br>
+---
 
 ## 13. Are there similar examples to the proposal that token holders can use to compare or understand the scope?
 
@@ -148,21 +146,19 @@ There are other projects that utilized similar governance structures and models 
 
 <https://compoundgrants.org/>
 
-<br>
+---
 
 ## 14. Time-frame expected to fulfill different parts of the scope, as well as full completion of the project.
 
 [insert this info]
 
-<br>
+---
 
 ## 15. Expected compensation for completion of the project and/or specific milestones.
 
 [insert this info]
 
-<br>
 
-<br>
 
 ---
 
