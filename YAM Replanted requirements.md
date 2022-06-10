@@ -33,7 +33,7 @@ The scope of this project consists generally of the following elements
 - Full documentation of how a new operating and organizational structure based on a grants model will work and how to use it. This will be via documentation style website.
 - Example documents and templates for users of the system to use.
 - High level documentation explaining the new system and rationale to token holders who much decide whether they wish to implement it. This will be in the form of a website with blog style posts.
-- Design of a system to manage and record the decisions and documents produced from running the designed system. This would be a public documents repo where governance and grant proposals are published.
+- Design of a "Governance Repository" system to manage and record the decisions and documents produced from running the designed system. This would be a public documents repo where governance and grant proposals are published.
 
 ---
 
@@ -150,16 +150,71 @@ There are other projects that utilized similar governance structures and models 
 
 ## 14. Time-frame expected to fulfill different parts of the scope, as well as full completion of the project.
 
-[insert this info]
+Projecting a timeframe for this work is difficult as the design portion is hard to predict. But most of the big design questions seem to be clear and mostly answered, and now simply need more documentation. We believe that the full re-org can be presented in July. It then needs review and approval by YAM stakeholders, and following that, work on building out some of the necessary infrastructure like a "governance repository" website that will need to be built. Work for these later peices and other complementary work like a protocol owned liquidity or Treasury Yield distribution specifications can begin when presentations, community input, and consensus building is happening.
+
+We expect work on this project will be ongoing for the next few months at least to build out and develop everything needed to make the Re-Org work.
+
+Below is the scope of work as laid out in the [Authors' last grant request](https://forum.yam.finance/t/yam-reorg-3-month-grant-request-june-august/1685):
+
+>### Design of Core Reorg
+>
+>Re-Org Docs (YAM RePlanted) and synopsis articles.
+>
+>- Concise statement of the Yam ReOrg project purpose and main objectives (90% complete)
+>- Article 1: What makes a good DAO - documentation that serves as a guiding target (80% complete)
+>- Article 2: Goals for a new Yam DAO - success definition and specific goals (80% complete)
+>- Article 3: New Yam DAO model - how grants, silos and a gov-ops council will work (50% complete)
+>- Diagramming and refinement (30% complete)
+>
+>**Milestone 1:** Substantial completion of all above to hand off for presentation work by YAM Design Studio Silo on June 27th.
+>
+>After handoff of Reorg Docs, Develop Templates for:
+>
+>- Pre-grant application
+>- Project Requirements document
+>- Grant Application
+>- Counter-Bid document
+>- Grant objection document
+>
+>Above documents to be worked on as part of milestone 2.
+>
+>### Presentation and Consensus
+>
+>Present new Yam DAO model and communication materials once completed by YAM Design Studio. (early-mid July)
+>
+>- Coordinate with Chilly to present documents and articles on the new supersite website, twitter, medium, etc.
+>- Respond to questions, concerns, etc.
+>- Formally present content for review and feedback to confirm consensus among stakeholders.
+>
+>**Milestone 2:** Vote to approve new process and more forward into implementation. Templates to be delivered in this milestone as well. July
+>
+>### Specification and Implementation
+>
+>- Based on final consensus, begin the specification and implementation process
+>- Implement enough structure for grants process to begin. Refine and publish templates.
+>- Specify and begin to implement the Gov-Ops Council.
+>- Specification and development of “Governance Repo,” the location and process for storing and updating new grants >and governance proposals.
+>
+>### Complementary initiatives:
+>
+>(to be worked on as time permits)
+>
+>- Treasury Yield Distribution design
+>- Governance contract upgrades
+>- Token Issuance strategy and design
+>- Vision and Values documentation and ratification
+>- Protocol owned liquidity strategy and design
+>
+> Because much of the current work is design focused, the work follows an iterative process in which discoveries in later phases may change the design. We expect that the broad strokes of the re-org are complete and ready to be presented at the end of June, and look forward to getting additional feedback. This feedback may impact the final product and require some re-working. The same goes for the design of the complementary initiatives, although the current design for the re-org has been crafted with them in mind.
 
 ---
 
 ## 15. Expected compensation for completion of the project and/or specific milestones.
 
-[insert this info]
-
-
+See [Grant Request](https://forum.yam.finance/t/yam-reorg-3-month-grant-request-june-august/1685)
 
 ---
+
+:heart: :rocket: :sweet_potato:
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
