@@ -1,5 +1,8 @@
 # Treasury Redemption Vote
 
+Proposal by @ross, @0xe, @feddas, @Designer, @chilly
+7/7/2020
+
 There was [a snapshot vote that recently passed](https://snapshot.org/#/yam.eth/proposal/0x48be1e680491b50416595d0a9a9f3e4b233edbf6b9977623fda63b1b5af3d3fc) to allow treasury redemption with 54% voting for, 46% voting against, and meeting 410% of quorum (2.05M YAM voting). This vote was put up without any announcement or presentation in the public governance discussion spaces of the DAO (Discord and/or Discourse Forum) and passed on a last minute push.
 
 As a DAO, we are beholden to the will of the token holders, and so this vote passing is a big event and must be respected. But with that said, we are beholden to all token holders and the fact that this vote was created in what could be considered a sneaky and underhanded way cannot be ignored. A vote of this magnitude should be thoroughly discussed and announced, with ample time for stakeholders to weigh in and vote. There are rules around creating proposals and giving sufficient notice to token holders to make a decision. An unannounced vote does not meet these criteria.
