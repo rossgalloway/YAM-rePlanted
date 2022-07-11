@@ -1,7 +1,7 @@
 {%hackmd theme-dark %}
 
 
-# The Governance and Operations Council (GSC)
+# The Governance and Operations Council (GOC)
 
 
 
@@ -10,7 +10,7 @@
 
 ## Role within YAM
 
-The Gov-Ops Council has 2 main roles within the DAO:
+The Gov-Ops Council has 3 main roles within the DAO:
 
 1. To facilitate and guide the high level operation of YAM, to help vet and fund Silos, Grants, and other projects. In this role it is not a gatekeeper. It makes recommendations and interpretations of the rules as ratified by the governance process. One could think of it like YAM’s version of a standards compliance body, which does not make standards, but reviews whether they are met and may also interpret and clarify them.
 2. The second role is to create and execute on-chain transactions from approved governance proposals. This is a functional and oversight role. Common, simple transactions and actions that the DAO performs on a regular basis are included in this role, as well as reviewing and calling other contracts that may be created by project silos. A preliminary list of pre-approved proposal actions are:
@@ -46,7 +46,7 @@ The goals that the Governance council should aim to achieve are:
 
 ### Code and Smart Contracts
 
-- Routine, pre-approved interactions with the YAM governance contracts and treasury should be the main scope of work for the developers putting together the on-chain transactions. What defines a “routine” transaction should be defined and publicly stated with “off the shelf” code that can be plugged into the contract. Testing the contract also falls into this scope. See the list in teh second bullet point of the "role within YAM" section of this document.
+- Routine, pre-approved interactions with the YAM governance contracts and treasury should be the main scope of work for the developers putting together the on-chain transactions. What defines a “routine” transaction should be defined and publicly stated with “off the shelf” code that can be plugged into the contract. Testing the contract also falls into this scope. See the list in the second bullet point of the "role within YAM" section of this document.
 - Code that falls outside of the prior "off the shelf" classification is the responsibility of the Silo or Grantee that is requesting its inclusion. They should write and test the required code and either implement it in their own deployed contract that can be called by the monthly on-chain transaction, or they should coordinate with the Gov-Ops silo to include it directly into the main proposal contract.
 - High level review of new code and tests, and coordination of how it comes together is part of the scope of the Gov-Ops Council.
 - Successful Execution of on-chain contracts, including calling any additional functions on contracts after the governance and proposal contracts are executed.
