@@ -1,12 +1,7 @@
 {%hackmd theme-dark %}
 
 
-# The Governance and Operations Council (GOC)
-
-
-
-### ❗ New Name, who dis?
-
+# Governance and Operations Council (Gov-Ops)
 
 ## Role within YAM
 
