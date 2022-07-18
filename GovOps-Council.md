@@ -1,6 +1,3 @@
-{%hackmd theme-dark %}
-
-
 # Governance and Operations Council (Gov-Ops)
 
 ## Role within YAM
@@ -19,13 +16,13 @@ The Gov-Ops Council has 3 main roles within the DAO:
 
     All other proposal actions are subject to a case by case review and should be expected to be out of scope of the Gov-Ops council. As new code is written for specific use cases, the above list may expand.
 
-3. Maintanence of existing YAM infrastructure and systems including, but not limited to:
+3. Maintenance of existing YAM infrastructure and systems including, but not limited to:
     - The YAM website and on-chain voting Dapp.
     - The YAM snapshot page.
     - The YAM Discourse server.
     - The YAM Discord server
     - The YAM Telegram channel.
-    - YAM documenation repositories.
+    - YAM documentation repositories.
     - the YAM github organization, repos, and other infrastructure used to facilitate working with those repos (Netlify, etc).
     - Moderation of all of the above.
 
