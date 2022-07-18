@@ -83,7 +83,7 @@ I expect my roles to be the following:
 
 ## Pay
 
-Pay to be set at $75 per hour, split 50/50 between USDC and YAM.
+Pay to be set at $85 per hour, split 50/50 between USDC and YAM.
 
 ## Specification
 
