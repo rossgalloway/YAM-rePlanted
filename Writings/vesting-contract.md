@@ -14,11 +14,11 @@ This contract would work just like (and maybe just be) a UMA long-short pair con
 
 The contract should be written so that only specific addresses can expire the contract (i.e. the owner, set to the recipient’s address). This could be something only the paid party can do, but governance could be allowed to as well in certain circumstances. The Payee is always assured they will get the lower bound payment, so if the vesting is set right then governance only has limited power to punish or claw back funds.
 
-These contracts could be traded or sold by changing the settling address (owner) to a new address and sending the tokens to that address. The new owner would now have the ability to settle the contract and redeem the funds. 
+These contracts could be traded or sold by changing the settling address (owner) to a new address and sending the "long" tokens to that address. The new owner would now have the ability to settle the contract and redeem the funds. 
 
 ### Retrieving Funds
 
-Calling `settle()` from the owner address requests a resolution from the Optimistic Oracle, which should only ask for whether the address belongs to the current owner and the current time, and then calculate the value of the token split at that point. THis is simple to verify as correct.
+Calling `settle()` from the owner address requests a resolution from the Optimistic Oracle, which should only ask for whether the address belongs to the current owner and the current time, and then calculate the value of the token split at that point. This is simple to verify as correct.
 
 Governance could have a separate permission that also allows them to expire the contract but calling this function from governance would create a disputable transaction that gets sent to full DVM mechanism. The voters of the DVM then review the evidence provided that the payee breached the contract. If the dispute fails, the payee receives the full payout. If the dispute succeeds then the price settles at the value from the time of calling settle and returns funds proportionally.
 
@@ -30,7 +30,7 @@ The collateral asset is the asset in which the payee would be paid. It should be
 
 This contract could be used by the DAO to create an payment model for YAM tokens that has "best of both worlds" properties. It provides vesting but also gives the payee the opportunity to claim payment at any time, in return for giving up their "bonus".
 
-YamDAO has been committed to paying out enough value in stablecoins to (hopefully) allow the payee to not need to sell the YAM to pay expenses. But true vesting has been a contentious issue, and our previous implementation was more like "vesting theater" than real vesting. This model allows for both, with a built-in incentive for contributors to hold their tokens through the vesting period to maximize their payout.
+YamDAO has been committed to paying out enough value in stablecoins to (hopefully) allow the payee to not need to sell the YAM to pay expenses. But true vesting has been a contentious issue, and our previous implementation was more like vesting theater than real vesting. This model allows for both, with a built-in incentive for contributors to hold their tokens through the vesting period to maximize their payout.
 
 This mechanism can also be complemented with DAO Controlled Liquidity (DCL) programs by paying out contributors in 80/20 YAM/ETH LP tokens instead of in pure YAM tokens. Unclaimed tokens from early vestings would go back into the treasury to be distributed in the future. While vesting, these tokens would contribute to DCL, and when redeemed could be locked directly into governance contracts, if we switch to an LP based system.
 
